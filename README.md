@@ -20,6 +20,7 @@
 ## 栈和队列
 ### 栈
 #### 抽象数据类型栈的定义
+LIFO(last in first out)
 > To be filed
 #### 栈的表示与实现
 > To be filed
@@ -28,6 +29,7 @@
 
 ### 队列
 #### 抽象数据类型队列的定义
+FIFO(First in first out)
 > To be filed
 #### 链队列-队列的链式表示与实现
 > To be filed
