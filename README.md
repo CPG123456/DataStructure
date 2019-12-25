@@ -37,6 +37,7 @@ FIFO(First in first out)
 > To be filed
 
 ## 串
+> 当时学到的时候老师没讲串，这个只能自己看啦哈哈。 
 ### 串类型的定义
 > To be filed
 ### 串的表示与实现
@@ -72,6 +73,9 @@ FIFO(First in first out)
 > To be filed
 ### 遍历二叉树和线索二叉树
 #### 遍历二叉树
+前序遍历  
+中序遍历  
+后序遍历  
 > To be filed
 #### 线索二叉树
 > To be filed
